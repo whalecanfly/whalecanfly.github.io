@@ -1,18 +1,18 @@
 # Site settings
-title: whale.xia3
-SEOTitle: whale.xia4
+title: whale.xia
+SEOTitle: whale.xia
 header-img: img/home.jpg
-email: wanghmjlu@163.com
+email: whalecanfly@163.com
 description: "Allen WANG | Big Data Developer"
-keyword: "Allen WANG, allenwhm, big data, 大数据"
+keyword: "Whale Xia, whalexwb, program, 织梦者"
 url: "https://whalecanfly.github.io"
 baseurl: ""
 
 # SNS settings
 RSS: false
 weibo_username:     wanghuoming
-zhihu_username:     allenwhm
-github_username:    allenwhm
+zhihu_username:     夏文博
+github_username:    whalecanfly
 linkedin_username:  allen-wang-王火明-85650ba9
 #twitter_username:   allewhm
 #facebook_username:  allewhm
