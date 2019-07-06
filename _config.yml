@@ -1,11 +1,11 @@
 # Site settings
-title: whale.xia
-SEOTitle: whale.xia
+title: whale.xia3
+SEOTitle: whale.xia4
 header-img: img/home.jpg
 email: wanghmjlu@163.com
 description: "Allen WANG | Big Data Developer"
 keyword: "Allen WANG, allenwhm, big data, 大数据"
-url: "https://allenwhm.github.io"
+url: "https://whalecanfly.github.io"
 baseurl: ""
 
 # SNS settings
