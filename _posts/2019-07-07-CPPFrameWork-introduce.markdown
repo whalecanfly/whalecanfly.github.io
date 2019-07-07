@@ -1,6 +1,6 @@
 ---
 layout:       post
-title:        "CPPFrameWork���� | github.io"
+title:        "CPPFrameWork介绍 | github.io"
 date:         2019-07-07
 author:       "Whale"
 header-img:   "img/in-post/build-personal-blog/build-personal-blog.jpg"
@@ -12,53 +12,52 @@ tags:
     - GitHub
 ---
 
-
 ## CPPFrameWork
-ʹ���������ģ�̽�����硣
+使命：好奇心，探索世界。
 
-���ܣ�ĿǰΪֹ�Լ������Թ��ļ���ջ���Կ����ʽ�����������򵥵�˵����һ������ά����c++�ļ�����ܡ�һ��������Լ���һ����Ҳϣ���ܴӹ����ļ����У������Ż��Ľ�֮·��
+介绍：目前为止自己所涉猎过的技术栈，以库的形式整理出来，简单的说这是一个持续维护的c++的技术框架。一方面提高自己，一方面也希望能从过往的技术中，窥见优化改进之路。
 
-## Ŀ¼
-_boost boost��ؿ⵱ǰȡ�����°汾V1.7.0
+## 目录
+_boost boost相关库当前取自最新版本V1.7.0
 
 _socket 
 
-&ensp;&ensp;--linux ��дlinux�µ�����ģ�ͣ�epoll
+&ensp;&ensp;--linux 编写linux下的两种模型，epoll
  
-&ensp;&ensp;--windows ��дwindows��֧�ֵ�����ģ�� 
+&ensp;&ensp;--windows 编写windows下支持的五种模型 
  
-_designmodel ���ģ�� eg:���� ���� 
+_designmodel 设计模型 eg:单例 工厂 
 
-_stl ���� 
+_stl 容器 
 
-_log  ��־ϵͳ����   �ȸ�glog
+_log  日志系统分析   谷歌glog
 
-_xml ����xml
+_xml 解析xml
 
-_json ����json
+_json 解析json
 
-_html ����html
+_html 解析html
 
-_thread �̡߳����̡��̳߳� 
+_thread 线程、进程、线程池 
 
-_ui �����
+_ui 界面库
 
-_database ���ݿ�
+_database 数据库
 
-_shareMemory �����ڴ�
+_shareMemory 共享内存
 
-_Algorithm �㷨 ��boost��Ҳ���㷨ģ�飬��һ����������䣬�������㷨�ŷ����ڸ�ģ���£�eg������ ���� ת�� �����ڹ����㷨����
+_Algorithm 算法 （boost中也有算法模块，这一块儿是做补充，公共的算法才放置在该模块下，eg：加密 解密 转换 都放在公共算法处）
 
 
-## ����ʹ�÷�Χ
-�ƻ�֧��windows��linuxͨ�ã�Ŀǰ��֧��windows��������ͬ��֧��linux��
+## 代码使用范围
+计划支持windows、linux通用，目前先支持windows，后续会同步支持linux。
 
-## ���˼��
+## 个人简介
 
-whale�� һ���ITС��һ������ӭ��ҽ�����
+whale， 一般的IT小伙一般的燥，欢迎大家交流。
 
-## д�����
-���Ҵ���ͬһ���ɳ���·�ϵ��˺ܶ࣬��һῴ����ͬ�ľ�ɫ��Ҳ��������ͬ�����ѡ��һ���Լ��Ķ��ڼ�����˼����һʱ����������������ҽ��������Ŀ��ԭ�������ǻ�����飬��һ��ɳ���
+## 写在最后
+与我处在同一条成长道路上的人很多，大家会看到相同的景色，也会遇到相同的困难。我会把自己的对于技术的思考第一时间分享在这里，这就是我建立这个项目的原因，让我们互相陪伴，并一起成长。
 
 
 
